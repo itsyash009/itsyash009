@@ -2,7 +2,7 @@
 
 <h1>Hello👋, I'm Yash</h1>
 <h3 >Welcome to my GitHub Profile</h3>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="500"/>
+<img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="500"/>
 
 ```cpp
 class Yash{
